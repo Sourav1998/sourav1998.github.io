@@ -63,17 +63,17 @@ var skills = [
             {"header" : "INTERESTS",
               "captions" : [
                 "Online Gaming",
-                "Web Development",
                 "Design",
-                "SEO",
-		"Machine Learning"
+                "Web Development",
+                "Machine Learning",
+		"SEO"
               ],
               "values" : [
                 0.70,
-                0.90,
                 0.80,
-                0.70,
-		0.60
+                0.90,
+                0.60,
+		0.70
               ]
             },
             {"header" : "CORE",
@@ -95,10 +95,10 @@ var skills = [
             {"header" : "Web Development",
               "captions" : [
                 "NodeJS",
-                "ExpressJS",
                 "React",
-                "Angular",
-                "Javascript"
+                "ExpressJS",
+                "Javascript",
+                "Angular"
               ],
               "values" : [
                 0.80,
