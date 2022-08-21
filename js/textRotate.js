@@ -94,8 +94,8 @@ var skills = [
             },
             {"header" : "Web Development",
               "captions" : [
-                "Node JS",
-                "Express JS",
+                "NodeJS",
+                "ExpressJS",
                 "React",
                 "Angular",
                 "Javascript"
